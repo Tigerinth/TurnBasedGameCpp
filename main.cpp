@@ -905,8 +905,6 @@ int main(){
  MAX 100
  NOW 80
  POT 50
-  * 
-    cd /d %userprofile%/desktop     --> direk desktopu bulur
     
     savestate           Calisiyor
     talk                Calisiyor
