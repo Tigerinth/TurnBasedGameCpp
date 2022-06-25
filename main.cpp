@@ -920,8 +920,6 @@ int main(){
     notr son            eklendi
      ◘ 
   */
-  
-  // saklamam gereken degerler 
   // level potenv money
   // attacklvl defendlvl lucklvl healthlvl health
   
